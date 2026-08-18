@@ -19,5 +19,5 @@ p.app-subtitle {
 }
 
 * {
-  font-family: 'Roboto';
+  font-family: Roboto, -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif;
 }
