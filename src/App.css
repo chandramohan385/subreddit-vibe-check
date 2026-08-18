@@ -17,3 +17,7 @@ p.app-subtitle {
   margin-bottom: 30px;
   font-size: 0.95rem;
 }
+
+* {
+  font-family: 'Roboto', sans-serif;
+}
