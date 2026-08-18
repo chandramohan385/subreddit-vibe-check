@@ -27,29 +27,7 @@ A React web application built for the Full Stack Developer Internship assignment
 
 ## 📌 Note on Data Source / API Choice
 
-While building this project, I encountered CORS restrictions and new access limitations on Reddit's default public endpoints. To ensure reliable and fast client-side fetching without requiring complex proxy setups or API key approvals, this app uses the **Arctic Shift API**—an open Reddit data mirror that provides real-time Reddit post data with full CORS support.
-
----
-
-## 💻 Local Setup & Running
-
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/YOUR_USERNAME/subreddit-vibe-check.git
-   cd subreddit-vibe-check
-   ```
-
-2. **Install dependencies**:
-   ```bash
-   npm install
-   ```
-
-3. **Start the development server**:
-   ```bash
-   npm start
-   ```
-
-4. Open `http://localhost:3000` in your browser.
+To fetch Reddit posts reliably in the browser, this project uses the Arctic Shift API, a free and open Reddit data service.
 
 ---
 
