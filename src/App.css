@@ -1,0 +1,19 @@
+.App {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 30px 20px;
+}
+
+h1.app-title {
+  text-align: center;
+  font-size: 1.8rem;
+  color: #e2e8f0;
+  margin-bottom: 8px;
+}
+
+p.app-subtitle {
+  text-align: center;
+  color: #64748b;
+  margin-bottom: 30px;
+  font-size: 0.95rem;
+}
